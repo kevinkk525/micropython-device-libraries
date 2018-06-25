@@ -1,3 +1,6 @@
 [submodule "pms5003"]
 	path = pms5003
 	url = https://github.com/kevinkk525/pms5003_micropython
+[submodule "htu21d"]
+	path = htu21d
+	url = https://github.com/kevinkk525/htu21d-esp8266
