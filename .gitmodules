@@ -1,0 +1,3 @@
+[submodule "pms5003"]
+	path = pms5003
+	url = https://github.com/kevinkk525/pms5003_micropython
