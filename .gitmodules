@@ -4,3 +4,6 @@
 [submodule "htu21d"]
 	path = htu21d
 	url = https://github.com/kevinkk525/htu21d-esp8266
+[submodule "ftpserver"]
+	path = ftpserver
+	url = https://github.com/robert-hh/FTP-Server-for-ESP8266-and-ESP32
