@@ -10,3 +10,6 @@
 [submodule "arduinoGPIO"]
 	path = arduinoGPIO
 	url = https://github.com/kevinkk525/micropython_arduino_control
+[submodule "micropython_remote"]
+	path = micropython_remote
+	url = https://github.com/peterhinch/micropython_remote
